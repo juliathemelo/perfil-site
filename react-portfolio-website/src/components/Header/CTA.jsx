@@ -1,5 +1,5 @@
 import React from 'react'
-import CV from '../../assets/PyMatCertificado.pdf'
+import CV from '../../assets/cv_JuliaMelo.pdf'
 
 export const CTA = () => {
   return (
